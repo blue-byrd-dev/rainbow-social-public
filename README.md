@@ -1,6 +1,10 @@
-# 🌈 Rainbow Galaxy
+# Rainbow Galaxy
 
 > A modern social platform built for connection, expression, and community.
+
+<p align="center">
+  <img src="./public/og-image.png" alt="Rainbow Galaxy Preview" width="100%" />
+</p>
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
